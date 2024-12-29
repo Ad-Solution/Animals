@@ -2,12 +2,12 @@
 const adData = [
     {
         id: 1,
-        category: 'dogs',
-        location: 'Colombo',
-        price: 'Rs.30,00',
-        images: ['img12.jpg', 'img12.jpg', 'img12.jpg'],
-        postedTime: '2023-01-01',
-        description: 'This is a friendly dog looking for a new home. It is very playful and good with kids.'
+        category: '',
+        location: '',
+        price: '',
+        images: ['', '', ''],
+        postedTime: '',
+        description: ''
     },
     
 ];
