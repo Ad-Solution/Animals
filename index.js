@@ -5,7 +5,7 @@ const adData = [
         category: '',
         location: '',
         price: '',
-        images: ['', '', ''],
+        images: ['img12.jpg', 'img12.jpg', 'img12.jpg'],
         postedTime: '',
         description: ''
     },
